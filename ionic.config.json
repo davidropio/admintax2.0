@@ -1,0 +1,8 @@
+{
+  "name": "admintax2.0",
+  "app_id": "3364a49a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
